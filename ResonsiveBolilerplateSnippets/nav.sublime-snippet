@@ -1,0 +1,15 @@
+<snippet>
+	 <content><![CDATA[
+<nav id="nav">
+    <ul>
+        <li><a href="#">Link 1</a></li>
+        <li><a href="#">Link 2</a></li>
+        <li><a href="#">Link 3</a></li>
+         <li><a href="#">Link 4</a></li>
+    </ul>
+</nav>
+]]></content>
+	 <tabTrigger>Rbnav</tabTrigger>
+	 <description>Responsive Boilerplate Navigation</description>
+	 <scope>text.html</scope>
+</snippet>

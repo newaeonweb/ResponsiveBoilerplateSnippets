@@ -1,0 +1,10 @@
+<snippet>
+	 <content><![CDATA[
+<div class="col1">
+
+</div>
+]]></content>
+	 <tabTrigger>Rbcol1</tabTrigger>
+	 <description>Responsive Boilerplate Col1</description>
+	 <scope>text.html</scope>
+</snippet>
