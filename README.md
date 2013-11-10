@@ -1,6 +1,5 @@
 # ResponsiveBoilerplateSnippets
 
----
 
 > Sublime Text2 snippets to use with **Responsive Boilerplate**.
 
@@ -10,7 +9,6 @@
 
 Please welcome. We do not claim to be the best, we are just trying to help an open web and free, so feel free to test, send bugs, suggestions and contribute with code to improve this tool.
 
----
 
 ## How to use
 
@@ -25,7 +23,6 @@ _Remembering that, these snippets are exclusive part of the Responsive Boilerpla
 
 **Visit: [Responsive Boilerplate](http:www.responsiveboilerplate.com).**
 
----
 
 ## More Infos
 
