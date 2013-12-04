@@ -1,11 +1,13 @@
 <snippet>
-	 <content><![CDATA[
-<div class="col3"></div>
-	<div class="col3"></div>
+	<content>
+		<![CDATA[
 		<div class="col3"></div>
-			<div class="col3"></div>
-]]></content>
-	 <tabTrigger>Rb4columns</tabTrigger>
-	 <description>Responsive Boilerplate 4 Columns</description>
-	 <scope>text.html</scope>
+		<div class="col3"></div>
+		<div class="col3"></div>
+		<div class="col3"></div>
+		]]>
+	</content>
+	<tabTrigger>Rb4columns</tabTrigger>
+	<description>Responsive Boilerplate 4 Columns</description>
+	<scope>text.html</scope>
 </snippet>

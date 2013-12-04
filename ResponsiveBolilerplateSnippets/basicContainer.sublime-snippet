@@ -1,10 +1,11 @@
 <snippet>
-	 <content><![CDATA[
-<div class="container"><!--Beginning of content-->
-
-</div><!--End of content-->
-]]></content>
-	 <tabTrigger>Rbcontainer</tabTrigger>
-	 <description>Responsive Boilerplate Container</description>
-	 <scope>text.html</scope>
+	<content>
+		<![CDATA[
+		<div class="container">
+		</div>
+		]]>
+	</content>
+	<tabTrigger>Rbcontainer</tabTrigger>
+	<description>Responsive Boilerplate Container</description>
+	<scope>text.html</scope>
 </snippet>
