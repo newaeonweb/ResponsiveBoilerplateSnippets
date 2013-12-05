@@ -5,24 +5,32 @@
 
 ---
 
-## Contribute
+A bunch of nicely and very useful [ResponsiveBoilerplate](http://www.responsiveboilerplate/) code snippets for [Sublime Text](http://sublimetext.com) editor.
 
-Please welcome. We do not claim to be the best, we are just trying to help an open web and free, so feel free to test, send bugs, suggestions and contribute with code to improve this tool.
+## Installation
 
+We have 3 options to install the snippets _(We prefer the third option)_.
+
+*1.*  Clone the repository into your packages folder.
+
+    git clone git@github.com:newaeonweb/ResponsiveBoilerplateSnippets.git
+
+*2.*  Download the [.zip](https://github.com/newaeonweb/ResponsiveBoilerplateSnippets/archive/master.zip) file and unzip it into your ST2 packages directory.
+
+*3.*  Using the Sublime Text Package Control, the easy way!
 
 ## How to use
 
 - We **strongly** recommend the use of Sublime Text 2 (I have not yet tested the new version 3).
-- Download or clone the repo on your machine.
-- Copy and paste the folder: ResponsiveBoilerplateSnippets into your Packages.
-- If you have problems to find your Sublime Text packages folder, open your editor, click preferences on the top bar menu, choose Browse Packages, so you find the folder. wow.
-- Just type Rbcol, Rbcontainer, Rbclear etc... and you see a dropdown menu with respective class.
+- Just type Rb on the snippets window and you'll see a dropdown menu with all classes availabe.
 
+_Remembering that, these snippets are exclusive part of the Responsive Boilerplate Library and certainly will not work outside the Responsive Boilerplate folder structure._
 
-_Remembering that, these snippets are exclusive part of the Responsive Boilerplate Framework and certainly will not work outside the folder structure framework._
+**For more infos, visit: [Responsive Boilerplate](http:www.responsiveboilerplate.com).**
 
-**Visit: [Responsive Boilerplate](http:www.responsiveboilerplate.com).**
+## Contribute
 
+Please welcome. Feel free to test, send bugs, suggestions and contribute with code to improve this tool.
 
 ## More Infos
 
